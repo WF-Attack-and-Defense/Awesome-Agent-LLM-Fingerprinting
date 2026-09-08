@@ -24,7 +24,7 @@
 | Studies| Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|------|---|
 | LLMmap | 2025 | USENIX | LLMmap: Fingerprinting for large language models | [Code](https://github.com/pasquini-dario/LLMmap) | [Dataset](https://github.com/kdsec/wangknn-dataset) |
-
+| GPTracker | 2025 | S&P | GPTracker: A Large-Scale Measurement of Misused GPTs | [Code](https://github.com/TrustAIRLab/GPTracker) | [Dataset](https://github.com/TrustAIRLab/GPTracker/releases) |
 </details>
 
 <details>
