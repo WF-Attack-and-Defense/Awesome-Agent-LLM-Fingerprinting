@@ -23,7 +23,7 @@
 | Studies| Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|------|---|
 | SOK | 2025 | ArXiv | Sok: Large language model copyright auditing via fingerprinting | [Code](https://github.com/shaoshuo-ss/LeaFBench) | [Dataset](https://github.com/shaoshuo-ss/LeaFBench/tree/main/data) |
-| LLMmap | 2025 | USENIX | LLMmap: Fingerprinting for large language models | [Code]([https://www.cs.sfu.ca/~taowang/wf/index.html](https://github.com/pasquini-dario/LLMmap)) | [Dataset]([https://github.com/kdsec/wangknn-dataset](https://github.com/pasquini-dario/LLMmap/tree/main/data)) |
+| LLMmap | 2025 | USENIX | LLMmap: Fingerprinting for large language models | [Code](https://github.com/pasquini-dario/LLMmap) | [Dataset](https://github.com/kdsec/wangknn-dataset) |
 
 </details>
 
