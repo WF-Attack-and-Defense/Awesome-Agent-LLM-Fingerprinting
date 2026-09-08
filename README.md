@@ -32,9 +32,12 @@
 
 | Studies| Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|------|---|
+| FPEdit | 2026 | COLM | FPEdit: Robust LLM Fingerprinting through Localized Parameter Editing | [Code] (https://huggingface.co/datasets/gbharti/finance-alpaca) | Code |
 | RAFP | 2026 | ArXiv | RAFP: Identifying LLM Lineages via Rare-Region Fingerprints | Code:[CodeAlpaca](https://huggingface.co/datasets/theblackcat102/evol-codealpaca-v1) [ShareGPT](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) [Llama-Spanish](https://huggingface.co/clibrain/Llama-2-7b-ft-instruct-es) | Code |
 | iSeal | 2026 | AAAI | iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification | [Code](https://github.com/IntelliSys-Lab/iSeal) | NA |
+| ImF | 2025 | CCS | ImF: Implicit Fingerprint for Large Language Models | [Code](https://huggingface.co/datasets/cnut1648/LLM-fingerprinted-SFT) | [Dataset](https://huggingface.co/datasets/cnut1648/LLM-fingerprinted-SFT) |
 | SOK | 2025 | ArXiv | Sok: Large language model copyright auditing via fingerprinting | [Code](https://github.com/shaoshuo-ss/LeaFBench) | [Dataset](https://github.com/shaoshuo-ss/LeaFBench/tree/main/data) |
+| HuRef | 2024 | NeurIPS | HuRef: HUman-REadable Fingerprint for Large Language Models | [Code](https://github.com/LUMIA-Group/HuRef) | [Dataset](https://github.com/clovaai/stargan-v2) |
 
 </details>
 
