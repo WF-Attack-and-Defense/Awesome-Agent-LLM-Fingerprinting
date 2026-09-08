@@ -22,7 +22,7 @@
 
 | Studies| Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|------|---|
-| iSeal | 2026 | AAAI | iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification | [Code](https://github.com/IntelliSys-Lab/iSeal) | [NA]() |
+| iSeal | 2026 | AAAI | iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification | [Code](https://github.com/IntelliSys-Lab/iSeal) | NA |
 | SOK | 2025 | ArXiv | Sok: Large language model copyright auditing via fingerprinting | [Code](https://github.com/shaoshuo-ss/LeaFBench) | [Dataset](https://github.com/shaoshuo-ss/LeaFBench/tree/main/data) |
 | LLMmap | 2025 | USENIX | LLMmap: Fingerprinting for large language models | [Code](https://github.com/pasquini-dario/LLMmap) | [Dataset](https://github.com/kdsec/wangknn-dataset) |
 
