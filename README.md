@@ -10,7 +10,8 @@
 
 - [Categories](#categories)
   - [1. Agent/LLM Fingerprintings](#1-Agent-LLM-Fingerprintings)
-  - [2. Datasets](#2-Datasets)
+  - [2. Agent/LLM Copyright](#2-Agent-LLM-Copyright)
+  - [3. Datasets](#3-Datasets)
 ----
 
 <summary><h2 id="categories">Categories</h2></summary>
@@ -22,15 +23,23 @@
 
 | Studies| Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|------|---|
-| RAFP | 2026 | ArXiv | RAFP: Identifying LLM Lineages via Rare-Region Fingerprints | Code:[CodeAlpaca](https://huggingface.co/datasets/theblackcat102/evol-codealpaca-v1) [ShareGPT](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) [Llama-Spanish](https://huggingface.co/clibrain/Llama-2-7b-ft-instruct-es) | Code |
-| iSeal | 2026 | AAAI | iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification | [Code](https://github.com/IntelliSys-Lab/iSeal) | NA |
-| SOK | 2025 | ArXiv | Sok: Large language model copyright auditing via fingerprinting | [Code](https://github.com/shaoshuo-ss/LeaFBench) | [Dataset](https://github.com/shaoshuo-ss/LeaFBench/tree/main/data) |
 | LLMmap | 2025 | USENIX | LLMmap: Fingerprinting for large language models | [Code](https://github.com/pasquini-dario/LLMmap) | [Dataset](https://github.com/kdsec/wangknn-dataset) |
 
 </details>
 
 <details>
-<summary><h3 id="2-Datasets">2. Datasets</h3></summary>
+<summary><h3 id="2-Agent-LLM-Copyright">2. Agent/LLM Copyright</h3></summary>
+
+| Studies| Year | Journal/Conference | Title | Source Code | Dataset |
+|------|------|--------|--------------------------------------------------|------|---|
+| RAFP | 2026 | ArXiv | RAFP: Identifying LLM Lineages via Rare-Region Fingerprints | Code:[CodeAlpaca](https://huggingface.co/datasets/theblackcat102/evol-codealpaca-v1) [ShareGPT](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) [Llama-Spanish](https://huggingface.co/clibrain/Llama-2-7b-ft-instruct-es) | Code |
+| iSeal | 2026 | AAAI | iSeal: Encrypted Fingerprinting for Reliable LLM Ownership Verification | [Code](https://github.com/IntelliSys-Lab/iSeal) | NA |
+| SOK | 2025 | ArXiv | Sok: Large language model copyright auditing via fingerprinting | [Code](https://github.com/shaoshuo-ss/LeaFBench) | [Dataset](https://github.com/shaoshuo-ss/LeaFBench/tree/main/data) |
+
+</details>
+
+<details>
+<summary><h3 id="3-Datasets">3. Datasets</h3></summary>
 
 | Defenses | Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|---|---|
