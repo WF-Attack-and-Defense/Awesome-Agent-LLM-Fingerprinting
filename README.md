@@ -1,6 +1,6 @@
 # Awesome Agent/LLM Fingerprinting Studies
 
-> A curated list of research works on Agent/LLM fingerprinting 2020. We will continue to maintain this project. Welcome to expand this list by:
+> A curated list of research works on Agent/LLM fingerprinting from 2020. We will continue to maintain this project. Welcome to expand this list by:
 > - Opening an issue or pull request
 > - To assist future researchers, we welcome any suggestions for improving this survey paper. Please feel free to share your feedback via email: wfsecsota@gmail.com
 
@@ -22,7 +22,8 @@
 
 | Studies| Year | Journal/Conference | Title | Source Code | Dataset |
 |------|------|--------|--------------------------------------------------|------|---|
-| Wang14 | 2014 | USENIX | Effective Attacks and Provable Defenses for Website Fingerprinting | [Code](https://www.cs.sfu.ca/~taowang/wf/index.html) | [Dataset](https://github.com/kdsec/wangknn-dataset) |
+| SOK | 2025 | ArXiv | Sok: Large language model copyright auditing via fingerprinting | [Code](https://github.com/shaoshuo-ss/LeaFBench) | [Dataset}(https://github.com/shaoshuo-ss/LeaFBench/tree/main/data) |
+| LLMmap | 2025 | USENIX | LLMmap: Fingerprinting for large language models | [Code]([https://www.cs.sfu.ca/~taowang/wf/index.html](https://github.com/pasquini-dario/LLMmap)) | [Dataset]([https://github.com/kdsec/wangknn-dataset](https://github.com/pasquini-dario/LLMmap/tree/main/data)) |
 
 </details>
 
